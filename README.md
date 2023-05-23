@@ -20,5 +20,7 @@ Topics of shell scripting
 6. Conditions
 7. Loops
 8. Basic unix commands like grep, awk, find, 
+9. vi editor
+
 
 
