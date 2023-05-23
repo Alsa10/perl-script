@@ -19,5 +19,6 @@ Topics of shell scripting
 5. Redirectors, Quotes, Exit Status
 6. Conditions
 7. Loops
+8. Basic unix commands like grep, awk, find, 
 
 
