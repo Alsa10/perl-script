@@ -11,5 +11,4 @@ echo "alok is a boy"
 echo " rashmi is a girl"
 echo " hello world"
 echo " open an account in gmail/twitter"
-echo " open an account in facebook"
-
+echo " open an account in facebook
