@@ -11,3 +11,7 @@ echo "alok is a boy"
 echo " rashmi is a girl"
 echo " hello world"
 echo " open an account in gmail/twitter"
+<<<<<<< HEAD
+=======
+echo " open an account in facebook
+>>>>>>> stage
