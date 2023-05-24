@@ -3,3 +3,11 @@
 touch a b c d
 mkdir alok
 mkdir -p arun ansu
+cat > cuttack
+bhubaneswar is the smartest city
+it is the capital of oriisa
+considered as temple 
+echo "alok is a boy"
+echo " rashmi is a girl"
+echo " hello world"
+
