@@ -2,7 +2,7 @@
 #### /usr/bin/env bash
 touch a b c d
 mkdir alok
-mkdir -p arun ansu
+mkdir arun ansu
 cat > cuttack
 bhubaneswar is the smartest city
 it is the capital of oriisa
