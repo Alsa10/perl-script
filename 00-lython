@@ -1,0 +1,6 @@
+echo hello
+touch abc cde efg hij
+cat >> abc
+ls -ltr
+date
+print'hello how are you'
