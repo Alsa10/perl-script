@@ -7,5 +7,5 @@ date
 print'hello how are you'
 print" bhubaneswar is the capital of Odishs"
 print"Puri is famous for Lord Jagganath"
-echo "hello"\n "how are you"
-echo "hello"\e "i am in bhubaneswar"
+echo "hello"\n " are you man"
+echo "hello"\e "i am in cuttack"
