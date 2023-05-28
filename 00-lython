@@ -1,6 +1,9 @@
+#!/bin/bash
 echo hello
 touch abc cde efg hij
 cat >> abc
 ls -ltr
 date
 print'hello how are you'
+print" bhubaneswar is the capital of Odishs"
+print"Puri is famous for Lord Jagganath"
