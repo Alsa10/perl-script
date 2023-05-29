@@ -2,5 +2,6 @@
 #!/bin bash
 
 # this is my file location
-hello rajput
-hello Indiagit 
+echo "hello rajput"
+echo "hello Indiagit"
+echo " Today date is ${date}"
