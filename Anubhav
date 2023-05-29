@@ -1,3 +1,11 @@
+#!/bin/bash
+
+
+echo " Delhi is the capital of India"
+echo ' Kolkata remained capital of India for 1100 years'
+echo shifted from Kolkata to Delhi in 1911
+
+
 hello man, how are you
 your help for me, will remain as a debt for me
 i will never forget in my life.
