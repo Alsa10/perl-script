@@ -1,7 +1,0 @@
-
-#!/bin bash
-
-# this is my file location
-echo ""..........""
-echo "hello Indiagit"
-echo " Today date is ${date}"
